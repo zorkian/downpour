@@ -1,0 +1,29 @@
+Welcome to Downpour, the BitTorrent client libraries for Perl.
+
+This set of modules is designed to do everything you need to enable you
+to quickly and easily create a BitTorrent frontend letting Downpour do
+all of the work.
+
+Some of the envisioned applications are programs that enable remote
+management of the BitTorrent client, multi-torrent managers that will
+download multiple torrents at a time, seeding programs that will
+intelligently seed everything you put in a certain directory to enable
+usage more like traditional p2p applications... the list goes on.
+
+As it stands, if you are just looking at having a very bare frontend that
+you can access with a web browser to see status, Downpour already does all
+of that for you.
+
+Also, at the moment, Downpour doesn't support everything that other
+BitTorrent clients support.  Multi-file torrents, for one.  I'm sure there
+are other parts of the system unsupported, but I don't remember them right
+now.  For standard torrent files, it works fine, though.
+
+If you have any questions... please feel free to email me or use the
+SourceForge forums that have been setup.  Please also file bugs there, as
+then everything can stay together.
+
+    http://www.sourceforge.net/projects/downpour/
+
+-Mark Smith
+mark@plogs.net

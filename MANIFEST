@@ -1,0 +1,15 @@
+t/standard.t
+lib/Downpour/Torrent/Tracker.pm
+lib/Downpour/Torrent/Peer.pm
+lib/Downpour/BEncoder.pm
+lib/Downpour/Torrent.pm
+lib/Downpour/Socket.pm
+lib/Downpour/ManageSocket.pm
+lib/Danga/Socket.pm
+lib/Downpour.pm
+Makefile.PL
+bin/test.pl
+MANIFEST
+README
+LICENSE
+META.yml                                 Module meta-data (added by MakeMaker)
